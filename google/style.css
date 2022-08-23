@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: verdana;
+}
+.container .row .col {
+    border-radius: 8px;
+    padding: 10px 50px 0px;
+    text-align: center;
+    margin: 0 25px 20px;
+}
+.container .row .col i {
+    font-size: 65px;
+}
+.container .row .col:hover {
+    cursor: pointer;
+    background-color: lightblue;
+    color: #000;
+}
+.container .row .col i:hover {
+    color: #fff;
+}
+.i:hover {
+    color: #fff;
+}
